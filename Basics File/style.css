@@ -1,0 +1,38 @@
+/* Universal Selector denoted(*{})  */
+*{
+  color:blue;
+}
+
+/* this is a Element selector denoted(h1,p,button etc{})  */
+h1{
+    color:green;  
+  }
+p {
+    color:rgba(0, 0, 255, 0.679);
+    background-color:yellow;
+  }
+button{
+         color:rgb(255, 255, 255);
+         background-color:white;
+      }
+
+body{
+       background-color:rgba(128, 128, 128, 0.744);
+    }      
+
+       ;/*  Id selector denoted(#my id{}) */
+  #heading1{
+    color:blue;
+  }
+  #heading2{
+    color:chocolate;
+  }
+
+#heading{
+  color:pink;
+}
+
+/*  class Selector denoted(.myclass{}) */
+.myclass{
+  color:grey;
+}

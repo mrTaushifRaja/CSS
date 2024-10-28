@@ -1,0 +1,11 @@
+h1{
+  /*  text-align:center;*/
+ text-decoration: underline;
+}
+p{
+  /*text-align:left;*/
+ text-decoration: dotted; 
+}
+a{
+  text-decoration: none;
+}

@@ -1,0 +1,9 @@
+/* Ques1:- Create am Simple div with an id="box".
+          Add some text content inside the div.
+          set its background color to blue.  */
+
+
+          #box{
+           background-color:rgba(0, 255, 183, 0.774);
+          }
+          
